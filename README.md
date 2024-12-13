@@ -30,5 +30,13 @@ I am a JavaScript Ninja 🥷 & Python, Anaconda Killer 🐍
         <img src="./images/04-python.svg" alt="Python" width="44" height="44"/>
       <br>Python
     </td>
+    <td align="center" width="88">
+        <img src="./images/05-anaconda.png" alt="Anaconda" width="44" height="44"/>
+      <br>Anaconda
+    </td>
+    <td align="center" width="88">
+        <img src="./images/06-airflow.png" alt="Airflow" width="44" height="44"/>
+      <br>Airflow
+    </td>
 </table>
 </div>
